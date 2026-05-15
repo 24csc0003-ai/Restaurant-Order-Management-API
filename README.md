@@ -277,12 +277,7 @@ POST http://localhost:5000/api/menu
   "ingredients": ["Bread", "Meat"]
 }
 
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin YOUR_REPOSITORY_LINK
-git push -u origin main
+
 
 
 
